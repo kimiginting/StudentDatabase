@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyApplication List Dropdown</string>
+    <string-array name="daftar_kota">
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Surabaya</item>
+        <item>Bekasi</item>
+        <item>Wonogiri</item>
+        <item>Bogor</item>
+        <item>Solo</item>
+    </string-array>
+</resources>
